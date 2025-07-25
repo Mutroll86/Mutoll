@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk.git" />
+<img src="[https://github.com/Platane/snk.git](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" />
 
 ###
